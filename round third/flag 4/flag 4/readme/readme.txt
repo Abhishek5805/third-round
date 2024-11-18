@@ -1,0 +1,1 @@
+"Swap the image file's 'visual' label for something meant for plain text."
